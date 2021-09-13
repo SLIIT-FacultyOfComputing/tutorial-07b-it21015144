@@ -1,0 +1,5 @@
+Enter length of Rectangle : Enter width of Rectangle : Enter radius of Circle : Rectangle Area = 0
+Circle Area = 0
+Rectangle Destructor called
+Circle Destructor called
+End of Program
